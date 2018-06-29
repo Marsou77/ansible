@@ -1,6 +1,6 @@
 ---
 - name: Ping Windows
-  hosts: w10-teamviewer
+  hosts: all
 
   tasks:
   - name: Ping Windows
