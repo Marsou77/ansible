@@ -1,6 +1,6 @@
 ---
 - name: Ping Windows
-  host: windows
+  hosts: windows
 
   tasks:
   - name: Ping Windows
